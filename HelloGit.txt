@@ -1,5 +1,6 @@
 Hello Git
 
 This line is now corrected
+Here we can add more Text
 
 End Text
