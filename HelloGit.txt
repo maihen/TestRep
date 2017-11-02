@@ -1,5 +1,5 @@
 Hello Git
 
-THis line should be corrected
+This line is now corrected
 
 End Text
